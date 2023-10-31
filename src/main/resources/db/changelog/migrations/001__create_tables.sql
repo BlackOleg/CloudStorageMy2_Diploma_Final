@@ -1,6 +1,6 @@
-CREATE SCHEMA netology_diploma;
+CREATE  SCHEMA netology_diploma;
 
-create table netology_diploma.users
+create  table netology_diploma.users
 (
     id       bigserial    not null,
     username varchar(255) not null
@@ -11,7 +11,7 @@ create table netology_diploma.users
 
 );
 
-create table netology_diploma.files
+create  table netology_diploma.files
 (
     id        bigserial,
     filename varchar(255),
