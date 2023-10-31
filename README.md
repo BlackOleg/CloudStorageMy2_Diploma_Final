@@ -55,7 +55,7 @@ Backend проект запустится на порту **8091**
 ### Стартовые пользователи:
 ```
 login: oleg@gmail.com, password: oleg
-login: User1@mail.ru, password: user
+login: user1@gmail.com, password: user
 
 ```
 
