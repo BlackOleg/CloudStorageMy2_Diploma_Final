@@ -1,12 +1,3 @@
-2023-11-01 00:53:01 INFO  Authentication is successfully
-2023-11-01 00:53:01 INFO  User oleg@gmail.com is authorized
-2023-11-01 00:53:01 INFO  Files [] received successfully
-2023-11-01 00:53:30 INFO  Authentication is successfully
-2023-11-01 00:53:30 INFO  User oleg@gmail.com is authorized
-2023-11-01 00:53:30 INFO  Files [] received successfully
-2023-11-01 00:53:43 INFO  Success upload file. User with ID 1
-2023-11-01 00:53:43 INFO  File HH_Иванов Олег_JD_Re0.1.docx uploaded successfully
-2023-11-01 00:53:45 INFO  Files [FileWebResponse(filename=HH_Иванов Олег_JD_Re0.1.docx, size=46935)] received successfully
-2023-11-01 00:53:57 INFO  Success upload file. User with ID 1
-2023-11-01 00:53:57 INFO  File rzd_ticket_НИЖНИЙ_НОВГОРОД_САМАРА_23_04_2023_09_36_72834542247264.pdf uploaded successfully
-2023-11-01 00:53:59 INFO  Files [FileWebResponse(filename=HH_Иванов Олег_JD_Re0.1.docx, size=46935), FileWebResponse(filename=rzd_ticket_НИЖНИЙ_НОВГОРОД_САМАРА_23_04_2023_09_36_72834542247264.pdf, size=72823)] received successfully
+2023-11-01 01:27:21 INFO  Authentication is successfully
+2023-11-01 01:27:22 INFO  User oleg@gmail.com is authorized
+2023-11-01 01:27:22 INFO  Files [FileWebResponse(filename=HH_Иванов Олег_JD_Re0.1.docx, size=46935), FileWebResponse(filename=rzd_ticket_НИЖНИЙ_НОВГОРОД_САМАРА_23_04_2023_09_36_72834542247264.pdf, size=72823)] received successfully
