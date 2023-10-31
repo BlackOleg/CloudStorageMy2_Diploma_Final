@@ -47,12 +47,4 @@ create table netology_diploma.user_roles
     constraint user_role
         primary key (user_id, role_id)
 );
--- DELETE
--- FROM netology_diploma.user_roles;
--- DELETE
--- FROM netology_diploma.users;
--- DELETE
--- FROM netology_diploma.roles;
--- DELETE
--- FROM netology_diploma.files;
 

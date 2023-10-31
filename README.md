@@ -34,9 +34,9 @@ Spring Security, CORS.
  - Интеграционные тесты с использованием **testcontainers**
 
 
-## 1. Запуск BACKEND:
+## Запуск BACKEND:
 
-###  Для запуска REST-сервиса необходимо :
+### Для запуска REST-сервиса необходимо :
 
 ```
 docker-compose up
@@ -51,8 +51,8 @@ Backend проект запустится на порту **8091**
 * roles,
 * user_roles
 
-и 
-**Стартовые пользователи:**
+
+### Стартовые пользователи:
 ```
 login: oleg@gmail.com, password: oleg
 login: User1@mail.ru, password: user
