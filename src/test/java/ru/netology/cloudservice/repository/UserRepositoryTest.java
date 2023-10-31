@@ -15,9 +15,7 @@ import java.util.Optional;
 import static com.vladmihalcea.sql.SQLStatementCountValidator.*;
 import static com.vladmihalcea.sql.SQLStatementCountValidator.assertDeleteCount;
 import static org.assertj.core.api.Assertions.assertThat;
-/**
- * Тестирование функционала {@link ru.netology.cloudservice.repository.UserRepository}.
- */
+
 
 @SystemJpaTest
 public class UserRepositoryTest {

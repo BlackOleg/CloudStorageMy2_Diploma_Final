@@ -11,9 +11,7 @@ import org.springframework.test.context.ActiveProfiles;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNull;
 
-/**
- * Тестирование функционала {@link ru.netology.cloudservice.repository.AuthenticationRepository}.
- */
+
 
 @SpringBootTest
 @ActiveProfiles("test")
@@ -23,7 +21,7 @@ public class AuthenticationRepositoryTest {
     @Autowired
     AuthenticationRepository authenticationRepository;
 
-    public static final String USERNAME = "anna@gmail.com";
+    public static final String USERNAME = "oleg@gmail.com";
     public static final String TOKEN = "Token";
 
     @BeforeEach
